@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./a90077278b34c3dbaaf889d95664fff7a413db5ac7ad87057c92e564677406de.png" width="280" alt="Verification Core">
+</p>
+ 
 # Verification Core
 
 **Verification Core** is an experimental verification system designed to evaluate logical consistency, state transitions, validation conditions, and the integrity of verification processes.
